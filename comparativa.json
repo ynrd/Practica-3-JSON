@@ -1,0 +1,266 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Alcampo",
+      "direccion": "GC1, KM8, Telde, Las Palmas",
+      "coordenadas": "28.013784367875946, -15.388395942323891\"E",
+      "ofertas": [
+        {
+          "nombre": "pan",
+          "ofertaVigente": "27/03/2022",
+          "dto": 15
+        },
+        {
+          "nombre": "leche",
+          "ofertaVigente": "01/04/2022",
+          "dto": 20
+        },
+        {
+          "nombre": "huevos",
+          "ofertaVigente": "03/04/2022",
+          "dto": 25
+        },
+        {
+          "nombre": "papel higiénico",
+          "ofertaVigente": "05/04/2022",
+          "dto": 30
+        },
+        {
+          "nombre": "plátano",
+          "ofertaVigente": "08/04/2022",
+          "dto": 15
+        },
+        {
+          "nombre": "galletas",
+          "ofertaVigente": "10/04/2022",
+          "dto": 35
+        }
+      ],
+      "productos": [
+        {
+          "nombre": "pan",
+          "precioVtaUni": 0.6,
+          "perecedero": true,
+          "origen": "Local (Telde)",
+          "unidades": [1, 2, 3, 4, 5, 6],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "leche",
+          "precioVtaUni": 0.95,
+          "perecedero": true,
+          "origen": "Local (Agüimes)",
+          "unidades": [1, 6, 12, 24],
+          "unidadMda": "litros"
+        },
+        {
+          "nombre": "huevos",
+          "precioVtaUni": 1.25,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "papel higiénico",
+          "precioVtaUni": 2.4,
+          "perecedero": false,
+          "origen": "España",
+          "unidades": [4, 6, 12, 24],
+          "unidadMda": "metros"
+        },
+        {
+          "nombre": "plátano",
+          "precioVtaUni": 0.5,
+          "perecedero": true,
+          "origen": "Canarias",
+          "unidades": [2, 4, 6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "galletas",
+          "precioVtaUni": 2.65,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [2, 4, 6],
+          "unidadMda": "gramos"
+        }
+      ]
+    },
+
+    {
+      "nombre": "Lidl",
+      "direccion": "Avenida Joan y Victor Jara, 10, Telde, Las Palmas",
+      "coordenadas": "28.025846280341263, -15.399233731139844\"E",
+      "ofertas": [
+        {
+          "nombre": "pan",
+          "ofertaVigente": "30/03/2022",
+          "dto": 20
+        },
+        {
+          "nombre": "leche",
+          "ofertaVigente": "05/04/2022",
+          "dto": 10
+        },
+        {
+          "nombre": "huevos",
+          "ofertaVigente": "08/04/2022",
+          "dto": 15
+        },
+        {
+          "nombre": "papel higiénico",
+          "ofertaVigente": "03/04/2022",
+          "dto": 35
+        },
+        {
+          "nombre": "plátano",
+          "ofertaVigente": "12/04/2022",
+          "dto": 25
+        },
+        {
+          "nombre": "galletas",
+          "ofertaVigente": "15/04/2022",
+          "dto": 30
+        }
+      ],
+      "productos": [
+        {
+          "nombre": "pan",
+          "precioVtaUni": 0.58,
+          "perecedero": true,
+          "origen": "Local (El Calero)",
+          "unidades": [1, 2, 3, 4, 5, 6],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "leche",
+          "precioVtaUni": 1.0,
+          "perecedero": true,
+          "origen": "Local (Valsequillo)",
+          "unidades": [1, 6, 12, 24],
+          "unidadMda": "litros"
+        },
+        {
+          "nombre": "huevos",
+          "precioVtaUni": 1.3,
+          "perecedero": true,
+          "origen": "Canarias",
+          "unidades": [6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "papel higiénico",
+          "precioVtaUni": 2.35,
+          "perecedero": false,
+          "origen": "España",
+          "unidades": [4, 6, 12, 24],
+          "unidadMda": "metros"
+        },
+        {
+          "nombre": "plátano",
+          "precioVtaUni": 0.45,
+          "perecedero": true,
+          "origen": "Local (Melenara)",
+          "unidades": [2, 4, 6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "galletas",
+          "precioVtaUni": 2.4,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [2, 4, 6],
+          "unidadMda": "gramos"
+        }
+      ]
+    },
+    {
+      "nombre": "Mercadona",
+      "direccion": "Centro Comercial Las Terrazas, Autovía GC1, KM5.5, Telde, Las Palmas",
+      "coordenadas": "28.02880797408586, -15.395196132039224\"E",
+      "ofertas": [
+        {
+          "nombre": "pan",
+          "ofertaVigente": "28/03/2022",
+          "dto": 25
+        },
+        {
+          "nombre": "leche",
+          "ofertaVigente": "03/04/2022",
+          "dto": 10
+        },
+        {
+          "nombre": "huevos",
+          "ofertaVigente": "12/04/2022",
+          "dto": 5
+        },
+        {
+          "nombre": "papel higiénico",
+          "ofertaVigente": "06/04/2022",
+          "dto": 30
+        },
+        {
+          "nombre": "plátano",
+          "ofertaVigente": "18/04/2022",
+          "dto": 20
+        },
+        {
+          "nombre": "galletas",
+          "ofertaVigente": "18/04/2022",
+          "dto": 35
+        }
+      ],
+      "productos": [
+        {
+          "nombre": "pan",
+          "precioVtaUni": 0.59,
+          "perecedero": true,
+          "origen": "Local (El Calero)",
+          "unidades": [1, 2, 3, 4, 5, 6],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "leche",
+          "precioVtaUni": 0.98,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [1, 6, 12, 24],
+          "unidadMda": "litros"
+        },
+        {
+          "nombre": "huevos",
+          "precioVtaUni": 1.32,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "papel higiénico",
+          "precioVtaUni": 2.33,
+          "perecedero": false,
+          "origen": "España",
+          "unidades": [4, 6, 12, 24],
+          "unidadMda": "metros"
+        },
+        {
+          "nombre": "plátano",
+          "precioVtaUni": 0.47,
+          "perecedero": true,
+          "origen": "Canarias",
+          "unidades": [2, 4, 6, 12, 24],
+          "unidadMda": "gramos"
+        },
+        {
+          "nombre": "galletas",
+          "precioVtaUni": 2.42,
+          "perecedero": true,
+          "origen": "España",
+          "unidades": [2, 4, 6],
+          "unidadMda": "gramos"
+        }
+      ]
+    }
+  ]
+}
